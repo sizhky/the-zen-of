@@ -8,4 +8,6 @@ d = { 'settings': { 'branch': 'main',
   'syms': { 'the_zen_of.cpp': {'the_zen_of.cpp.cpp': ('cpp.html#cpp', 'the_zen_of/cpp.py')},
             'the_zen_of.javascript': {'the_zen_of.javascript.javascript': ('javascript.html#javascript', 'the_zen_of/javascript.py')},
             'the_zen_of.python': {'the_zen_of.python.python': ('python.html#python', 'the_zen_of/python.py')},
-            'the_zen_of.setup': {}}}
+            'the_zen_of.setup': { 'the_zen_of.setup.available': ('setup.html#available', 'the_zen_of/setup.py'),
+                                  'the_zen_of.setup.default': ('setup.html#default', 'the_zen_of/setup.py'),
+                                  'the_zen_of.setup.of': ('setup.html#of', 'the_zen_of/setup.py')}}}

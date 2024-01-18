@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "the_zen_of"
+  site-url: "https://sizhky.github.io/the_zen_of/"
+  description: "zens of various languages and applications"
+  repo-branch: main
+  repo-url: "https://github.com/sizhky/https://github.com/sizhky/the-zen-of/"

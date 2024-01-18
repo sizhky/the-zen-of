@@ -1,0 +1,8 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_setup.ipynb
+      - 01_python.ipynb
+      - 02_javascript.ipynb
+      - 03_cpp.ipynb
