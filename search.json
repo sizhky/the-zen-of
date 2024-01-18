@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "{{repo}}",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "{{repo}}",
+    "section": "Install",
+    "text": "Install\npip install {{lib_path}}"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "{{repo}}",
+    "section": "How to use",
+    "text": "How to use\n$ zen-of python\n$ zen-of javascript\n$ zen-of cpp"
+  },
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "Zen of Python",
+    "section": "",
+    "text": "source\n\npython\n\n python ()"
+  },
+  {
+    "objectID": "cpp.html",
+    "href": "cpp.html",
+    "title": "Zen of Javascript",
+    "section": "",
+    "text": "source\n\ncpp\n\n cpp ()"
+  },
+  {
+    "objectID": "javascript.html",
+    "href": "javascript.html",
+    "title": "Zen of Javascript",
+    "section": "",
+    "text": "source\n\njavascript\n\n javascript ()"
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "source\n\navailable\n\n available ()\n\n\nsource\n\n\nof\n\n of (lang)\n\n\nsource\n\n\ndefault\n\n default (ctx:typer.models.Context)"
+  }
+]
