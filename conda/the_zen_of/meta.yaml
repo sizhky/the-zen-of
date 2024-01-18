@@ -1,0 +1,35 @@
+package:
+  name: the_zen_of
+  version: 0.0.1
+source:
+  sha256: b3f0f7e85dc72c59cf1e93e5ba0de3994708a8f341dc422f55bbc7b5408e30df
+  url: https://files.pythonhosted.org/packages/c3/41/9c02d7f329d5fe0531ae89f8e6fa359dd2885070efb319507699cd72d266/the_zen_of-0.0.1.tar.gz
+about:
+  description: 'This file will be overwritten by `index.ipynb`
+
+    '
+  dev_url: https://github.com/sizhky/https://github.com/sizhky/the-zen-of/
+  doc_url: https://sizhky.github.io/the_zen_of/
+  home: https://github.com/sizhky/https://github.com/sizhky/the-zen-of/
+  license: Apache Software
+  license_family: APACHE
+  summary: zens of various languages and applications
+build:
+  noarch: python
+  number: '0'
+  script: '{{ PYTHON }} -m pip install . -vv'
+extra:
+  recipe-maintainers:
+  - sizhky
+requirements:
+  host:
+  - pip
+  - python
+  - packaging
+  run:
+  - pip
+  - python
+  - packaging
+test:
+  imports:
+  - the_zen_of
